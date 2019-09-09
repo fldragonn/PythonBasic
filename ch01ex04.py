@@ -15,5 +15,3 @@ tmp = tmp % 5000
 print("1000원: ", tmp // 1000)
 tmp = tmp % 1000
 print("기타: ", tmp)
-
-
