@@ -15,8 +15,4 @@ def drawTri():
         t.right(120)
 
 drawRect()
-
-t.up()
-t.goto(100, 0)
-t.down()
 drawTri()
