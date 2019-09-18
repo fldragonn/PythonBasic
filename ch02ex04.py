@@ -18,3 +18,5 @@ def drawPoly(n=4, d=50, x=0, y=0):
 drawPoly()
 drawPoly(8, 30, 100, 100)
 drawPoly(5, 50)
+
+t.mainloop()
