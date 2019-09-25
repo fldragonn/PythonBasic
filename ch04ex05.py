@@ -1,5 +1,6 @@
-
+# ch04ex05.py
 # 덧셈, 뺄셈 문제 만들기
+# 리스트 사용
 
 import random as r
 
