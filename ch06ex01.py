@@ -4,7 +4,7 @@
 import random
 
 # 단어 리스트(타자 연습에 사용할 단어 목록)와 문제 번호 설정
-word_list = ['cat', 'dog', 'fox', 'monkey', 'mouse', 'panda', 'frog', 'snake', 'wolf']
+word_list = ['곰', '강아지', '고양이', '햄스터', '호랑이', '사자', '말', '늑대', '토끼']0
 quiz_number = 1
 
 # 랜덤하게 5단어 출력하기
