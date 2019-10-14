@@ -1,4 +1,4 @@
-# list_for_01.py
+# list_for_ex01.py
 #
 # 평촌아이티
 # www.pitca.co.kr
